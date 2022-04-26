@@ -1,0 +1,1 @@
+.container{display:flex;flex-wrap:wrap;justify-content:center}.card{border:1px solid grey;display:flex;justify-content:center;align-items:center;flex-direction:column;background-color:#232323;color:#fff;border-radius:20px;margin:1rem;box-shadow:10px 10px #0005;width:350px}.name{font-weight:700}.img{width:30rem;max-height:256px;image-rendering:pixelated}
